@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 /*--background color*/
 body{
     background-color: red;
 }
-=======
+
 /*** CSS RESET **/
 
 html, body, header, main, footer, article, nav, ul, li, p, h1, h2, h3, h4, h5, h6, div{
@@ -20,4 +20,3 @@ html, body{
 ul, li {
     margin-left: 10px;
 }
->>>>>>> origin/master
